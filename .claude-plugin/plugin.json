@@ -1,0 +1,24 @@
+{
+  "name": "council-skill",
+  "description": "Eine Ratssitzung für deine Entscheidung: Pessimist, First-Principles-Denker, Expansionist, Außenstehender und Umsetzer antworten unabhängig, prüfen sich gegenseitig blind, und ein Vorsitzender trifft den Beschluss mit klaren nächsten Schritten.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Christopher Thanisch",
+    "url": "https://thanisch.co"
+  },
+  "homepage": "https://thanisch.co",
+  "repository": "https://github.com/Ultra-Smashed/council-skill",
+  "license": "MIT",
+  "keywords": [
+    "council",
+    "ratssitzung",
+    "entscheidung",
+    "decision-making",
+    "berater",
+    "first-principles",
+    "pre-mortem",
+    "subagents",
+    "deutsch",
+    "claude-skills"
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "council-skill",
+  "description": "Fünf Berater, eine Blind-Prüfung, ein Beschluss: ein Claude-Skill für schwierige Entscheidungen.",
+  "owner": {
+    "name": "Christopher Thanisch",
+    "url": "https://thanisch.co"
+  },
+  "plugins": [
+    {
+      "name": "council-skill",
+      "description": "Lässt deine Frage von fünf Beratern beantworten (Pessimist, First-Principles-Denker, Expansionist, Außenstehender, Umsetzer), die Antworten anonym gegenseitig prüfen und einen Vorsitzenden entscheiden.",
+      "source": "./",
+      "category": "productivity"
+    }
+  ]
+}
